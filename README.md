@@ -13,17 +13,18 @@
 
 
 ### `config.json` 設置說明
-  "api_key": "幣安 api key",
-  "secret_key": "幣安 secret key",
-  "fr1_symbol": "輸入合約1名稱，例如: FETUSDT",
-  "fr2_symbol": "輸入合約1名稱，例如: AGIXUSDT",
-  "fr1_ratio": 合約1 的比例,
-  "fr2_ratio": 合約2 的比例,
-  "fr1_qty": 合約1 單次下單顆數,
-  "fr1_order_book_qty_requirement": 合約1 掛單簿數量要求,
-  "fr2_qty": 合約2 單次下單顆數,
-  "fr2_order_book_qty_requirement": 合約2 掛單簿數量要求,
-  "iterations_entry": 總下單次數
+
+-  "api_key": "幣安 api key",
+-  "secret_key": "幣安 secret key",
+-  "fr1_symbol": "輸入合約1名稱，例如: FETUSDT",
+-  "fr2_symbol": "輸入合約1名稱，例如: AGIXUSDT",
+-  "fr1_ratio": 合約1 的比例,
+-  "fr2_ratio": 合約2 的比例,
+-  "fr1_qty": 合約1 單次下單顆數,
+-  "fr1_order_book_qty_requirement": 合約1 掛單簿數量要求,
+-  "fr2_qty": 合約2 單次下單顆數,
+-  "fr2_order_book_qty_requirement": 合約2 掛單簿數量要求,
+-  "iterations_entry": 總下單次數
 
 以下為 `config.json` 的範例，請依自行需求做相關設定
 
