@@ -1,0 +1,13 @@
+{
+  "api_key": "111",
+  "secret_key": "222",
+  "fr1_symbol": "FETUSDT",
+  "fr2_symbol": "AGIXUSDT",
+  "fr1_ratio": 433.226,
+  "fr2_ratio": 1000,
+  "fr1_qty": 13,
+  "fr1_order_book_qty_requirement": 30,
+  "fr2_qty": 30,
+  "fr2_order_book_qty_requirement": 50,
+  "iterations_entry": 100
+}
