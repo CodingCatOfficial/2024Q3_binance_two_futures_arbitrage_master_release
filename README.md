@@ -1,7 +1,7 @@
 # Binance Futures Arbitrage Master
 
 ## 項目概述
-此程式接受輸入 Binance 兩不同合約交易對以及匯率，並且在偵測滿足價差的情況下使用api進行雙邊下單，以達成期限套利。
+此程式接受輸入 Binance 兩不同合約交易對以及匯率，並且在偵測滿足價差的情況下使用api進行雙邊下單，以達成 Long Short。
 
 
 ## 使用說明
